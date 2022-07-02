@@ -1,0 +1,7 @@
+print ('hello world!')
+fav_boxers = ['Floyd Mayweather jr', 'Saul Alvarez', 'Gervonta Davis', 'Mike Tyson', 'Vasiliy Lomachenko']
+print (fav_boxers [2])
+boxer_nicknames = {'Floyd Mayweather jr' : 'Money', 'Saul Alvarez' : 'Canelo', 'Gervonta Davis' : 'Tank', 'Mike Tyson' : 'Iron', 'Vasiliy Lomachenko' : 'Loma'}
+print (boxer_nicknames['Gervonta Davis'])
+boxer_weightclass = ('lightweight', 'welterweight', 'middleweight', 'heavyweight')
+print (boxer_weightclass[1])
